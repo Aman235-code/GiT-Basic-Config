@@ -1,0 +1,7 @@
+This is a second file 
+Repository:
+    Also Called as the folder
+    in Github
+to specify the version:
+git --version
+use git init to track changes in this file

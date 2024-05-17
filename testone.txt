@@ -1,0 +1,4 @@
+Hello There this is a text file
+git is a software and github is a service 
+
+It is used to track the changes in the code (Also Known as VCS(Version Control System))

@@ -1,0 +1,2 @@
+use git init to track changes in this file
+.git - a hidden folder to keep history of all files and sub-folders
